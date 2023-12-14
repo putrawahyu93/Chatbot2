@@ -12,4 +12,4 @@ import os
 TOKEN = os.environ.get("TOKEN", "6850064319:AAEUb3rINEShJXUEVTwRrjb8cgTkn3GocCg")
 OWNER = os.environ.get("OWNER", "@huskef")
 GROUP = os.environ.get("GROUP", "@StrangerChatsBot")
-CHANNEL = os.environ.get("CHANNEL", "@https://t.me/StrangerChatsBot")
+CHANNEL = os.environ.get("CHANNEL", "@StrangerChatsBot")
